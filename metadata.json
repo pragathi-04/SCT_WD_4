@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "TaskFlow – Smart Productivity Manager. Plan Better. Work Smarter. Stay Organized.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
